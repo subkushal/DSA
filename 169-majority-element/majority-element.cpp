@@ -1,3 +1,5 @@
+//optimal without verification
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
