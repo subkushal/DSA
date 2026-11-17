@@ -1,4 +1,4 @@
-// Brute force solution
+// Best solution
 
 class Solution {
 public:
